@@ -1,1 +1,2 @@
-# FAU-G-part-1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
